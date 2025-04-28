@@ -1,7 +1,4 @@
 
-
-
-
 # UniPlay
 
 UniPlay is a university sports networking platform aimed at helping students connect over their shared love for sports. It enables users to join sports clubs, create or participate in matches, and connect with fellow athletes across various sports disciplines — all within their university ecosystem.

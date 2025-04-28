@@ -1,0 +1,31 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "UniPlay is a university sports networking platform aimed at helping students connect over their shared love for sports. It enables users to join sports clubs, create or participate in matches, and connect with fellow athletes across various sports disciplines — all within their university ecosystem.",
+  "main": "index.js",
+ "scripts": {
+  "start": "node app.js",
+  "dev": "nodemon app.js"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sejaljaswal/cap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sejaljaswal/cap/issues"
+  },
+  "homepage": "https://github.com/sejaljaswal/cap#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
